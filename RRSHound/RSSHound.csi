@@ -1,0 +1,16 @@
+[History]
+B0=RSSHound/frmMain/wbHeader_Resize
+B1=RSSHound/frmMain/picRight_Resize
+B2=RSSHound/frmMain/OB1_MouseDown
+B3=RSSHound/frmMain/LoadSources
+B4=RSSHound/frmMain/Form_Load
+B5=RSSHound/frmMain/lvFeeds_ItemClick
+B6=RSSHound/frmMain/OB1_ButtonClick
+B7=RSSHound/frmMain/lblLink_Click
+B8=RSSHound/frmMain/picBrowser_Resize
+B9=RSSHound/frmMain/SizeSubControls
+B10=RSSHound/modInternet/DownloadFile
+B11=RSSHound/modInternet
+B12=RSSHound/frmSplash/Form_Click
+B13=RSSHound/frmMain/StartNewBrowser
+B14=RSSHound/modBrowse
